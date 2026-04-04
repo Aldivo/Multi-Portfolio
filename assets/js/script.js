@@ -1,7 +1,20 @@
 //INi buat mode hamburger di bagian toggle nav (jadi nanti di mobile ga hancur)
-function toggleMenu() {
-  document.getElementById('nav-links').classList.toggle('active');
+// MOBILE MENU TOGGLE
+const menuToggle = document.getElementById("menu-toggle");
+const mobileMenu = document.getElementById("mobile-menu");
+
+if (menuToggle) {
+  menuToggle.addEventListener("click", () => {
+    mobileMenu.classList.toggle("open");
+  });
 }
+
+// AUTO CLOSE PAS KLIK LINK
+document.querySelectorAll("#mobile-menu a").forEach(link => {
+  link.addEventListener("click", () => {
+    mobileMenu.classList.remove("open");
+  });
+});
 // ╔══════════════════════════════════════════════════════════╗
 // ║           ⚙️  KONFIGURASI — Edit bagian ini              ║
 // ╚══════════════════════════════════════════════════════════╝
