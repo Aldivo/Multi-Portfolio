@@ -1,20 +1,3 @@
-//INi buat mode hamburger di bagian toggle nav (jadi nanti di mobile ga hancur)
-// MOBILE MENU TOGGLE
-const menuToggle = document.getElementById("menu-toggle");
-const mobileMenu = document.getElementById("mobile-menu");
-
-if (menuToggle) {
-  menuToggle.addEventListener("click", () => {
-    mobileMenu.classList.toggle("open");
-  });
-}
-
-// AUTO CLOSE PAS KLIK LINK
-document.querySelectorAll("#mobile-menu a").forEach(link => {
-  link.addEventListener("click", () => {
-    mobileMenu.classList.remove("open");
-  });
-});
 // ╔══════════════════════════════════════════════════════════╗
 // ║           ⚙️  KONFIGURASI — Edit bagian ini              ║
 // ╚══════════════════════════════════════════════════════════╝
@@ -200,20 +183,19 @@ const PROFILES = [
   // ══════════════════════════════════════════════════════════
   {
     id: 1,
-    name: "Rizky Pratama",
-    firstName: "Rizky",
-    lastName: "Pratama",
-    role: "Backend Developer & Cloud Engineer",
-    status: "Open to opportunities",
-    desc: "Building scalable, high-performance systems that power millions of users.",
+    name: "Aldivo Dwitama Yoven",
+    firstName: "Aldivo",
+    lastName: "Dwitama Yoven",
+    role: "Network Technician & IT Consultant",
+    status: "Open to Opportunities",
+    desc: "Delivering secure, efficient network solutions and IT guidance to keep systems stable, connected, and scalable",
     accent: "#7c3aed",
-    emoji: "☁️",
-    photo: "assets/profile2.jpg",    // ← ganti foto Rizky
+    emoji: "",
+    photo: "assets/profile2.jpg",    // ← ganti foto Rizky - siap di rumah
     stats: { projects: "8+", skills: "6+", exp: "2+" },
-    about: "Backend developer specializing in microservices architecture, cloud infrastructure, and high-performance APIs.",
+    about: "Network technician focused on infrastructure deployment, network security, and efficient IT operations.",
     education: [
-      { year: "2023 - Present", title: "Sistem Informasi", sub: "Semester 4 · GPA 3.8" },
-      { year: "2022", title: "AWS Cloud Practitioner", sub: "Certified" }
+      { year: "2024 - Present", title: "Teknik Komputer", sub: "Semester 4 · Active Student" },
     ],
     skills: [
       { name: "Node.js", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg", pct: 90 },
