@@ -198,12 +198,12 @@ const PROFILES = [
       { year: "2024 - Present", title: "Teknik Komputer", sub: "Semester 4 · Active Student" },
     ],
     skills: [
-      { name: "Node.js", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg", pct: 90 },
-      { name: "PostgreSQL", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg", pct: 88 },
-      { name: "Docker", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg", pct: 75 },
-      { name: "AWS / GCP", icon: "☁️", pct: 82 },
+      { name: "HTML", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/html.jpeg", pct: 70 },
+      { name: "CSS", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/css.jpeg", pct: 70 },
+      { name: "Java Script", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/js.jpeg", pct: 30 },
+      { name: "Cisco Packet Tracer", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/OIP.jpg", pct: 90 },
       { name: "Python", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg", pct: 85 },
-      { name: "GraphQL", icon: "🔗", pct: 88 },
+      { name: "WinBox", icon: "https://e7.pngegg.com/pngimages/651/667/png-clipart-mikrotik-routeros-computer-icons-mikrotik-routeros-computer-network-graphical-user-interface-thumbnail.png", pct: 90 },
     ],
     projects: [
       { title: "API Gateway", desc: "High-performance API gateway handling 10k+ req/s.", tag: "Backend", img: "", emoji: "🔌", liveUrl: "#", srcUrl: "#" },
