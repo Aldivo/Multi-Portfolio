@@ -207,21 +207,17 @@ const PROFILES = [
     ],
     projects: [
       { title: "API Gateway", desc: "High-performance API gateway handling 10k+ req/s.", tag: "Backend", img: "", emoji: "🔌", liveUrl: "#", srcUrl: "#" },
-      { title: "Real-time Chat", desc: "WebSocket chat with Redis pub/sub.", tag: "Fullstack", img: "", emoji: "💬", liveUrl: "#", srcUrl: "#" },
-      { title: "CI/CD Pipeline", desc: "Automated deployment with GitHub Actions + Docker.", tag: "DevOps", img: "", emoji: "🔄", liveUrl: "#", srcUrl: "#" },
-      { title: "Analytics Dashboard", desc: "Real-time event stream analytics.", tag: "Data", img: "", emoji: "📊", liveUrl: "#", srcUrl: "#" },
     ],
     experience: [
-      { date: "2024 - Present", title: "Backend Engineer Intern", company: "Tech Startup Jakarta", desc: "Built RESTful microservices for financial transactions.", tags: ["Node.js", "PostgreSQL", "Docker"] },
-      { date: "2023", title: "Freelance Developer", company: "Various Clients", desc: "Built web apps and APIs for local businesses.", tags: ["Express.js", "MySQL"] },
+      { date: "2024 - Present", title: "College Student", company: "Universitas Gunadarma", desc: "College student in Universitas Gunadarma. Currently in 4th Semester", tags: ["Academic", "Student"] },
+      { date: "2023", title: "Internship Program", company: "PT. Sewiwi", desc: "Internship program for three months in the field of networks and services", tags: ["Networking", "Internet Provider", "Internship"] },
     ],
     contact: {
       email: "rizky@email.com",
       socials: [
-        { label: "Email", value: "rizky@email.com", href: "mailto:rizky@email.com", icon: "📧" },
-        { label: "LinkedIn", value: "linkedin.com/in/rizky", href: "https://linkedin.com/in/rizky", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" },
-        { label: "GitHub", value: "github.com/rizky", href: "https://github.com/rizky", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
-        { label: "Instagram", value: "@rizky.dev", href: "https://instagram.com/rizky", icon: "📸" },
+        { label: "Email", value: "divoyoven@gmail.com", href: "mailto:divoyoven@gmail.com", icon: "📧" },
+        { label: "GitHub", value: "github.com/rizky", href: "https://github.com/Aldivo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
+        { label: "Instagram", value: "@rizky.dev", href: "https://instagram.com/aldivodwitamay", icon: "📸" },
       ]
     },
     cvPath: "assets/cv/rizky-cv.pdf",
