@@ -225,7 +225,7 @@ const PROFILES = [
       ]
     },
     cvPath: "assets/cv/rizky-cv.pdf",
-    typing: ["Backend Dev", "Cloud Architect", "DevOps Engineer", "API Specialist"],
+    typing: ["Network Technician", "Network Architect", "AI Enthusiast"],
   },
 
   // ══════════════════════════════════════════════════════════
