@@ -191,7 +191,7 @@ const PROFILES = [
     desc: "Delivering secure, efficient network solutions and IT guidance to keep systems stable, connected, and scalable",
     accent: "#7c3aed",
     emoji: "",
-    photo: "assets/profile2.jpg",    // ← ganti foto Rizky - siap di rumah
+    photo: "https://drive.google.com/file/d/1KquWGwPnkFi_ZezVSzm686-Hl7k6vVZh/view?usp=drive_open",    // ← ganti foto Rizky - siap di rumah
     stats: { projects: "8+", skills: "6+", exp: "2+" },
     about: "Network technician focused on infrastructure deployment, network security, and efficient IT operations.",
     education: [
