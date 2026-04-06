@@ -84,6 +84,7 @@ const PROFILES = [
       { name: "Ubuntu", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/ubuntu.jpg", pct: 93 },
       { name: "Prisma", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/prisma.jpg", pct: 96 },
       { name: "Node JS", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/node.jpg", pct: 94 },
+      { name: "C", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/c.jpg", pct: 86 },
       { name: "Type Script", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/type.jpg", pct: 94 },
       { name: "Tailwind", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/tailwind.jpg", pct: 96 },
     ],
