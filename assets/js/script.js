@@ -232,7 +232,7 @@ const PROFILES = [
     lastName: "Fauzan Batubara",
     role: "Computer Engineering Student",
     status: "Available for work",
-    desc: "A Computer Engineering student with basic skills in programming, networking, and computer systems. Highly motivated, with strong problem-solving abilities and experience in technical projects and laboratory work. Eager to grow and contribute in the technology field.",
+    desc: "A Computer Engineering student with basic skills in programming, networking, and computer system. Highly motivated, with strong problem-solving abilities and experience in technical projects and laboratory work. Eager to grow and contribute in the technology field.",
     accent: "#00e5ff",
     emoji: "",
 
