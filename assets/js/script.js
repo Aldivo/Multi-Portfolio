@@ -241,7 +241,7 @@ const PROFILES = [
     // Contoh lokal : "assets/fazila.jpg"
     // Contoh online: "https://i.imgur.com/xxxxx.jpg"
     photo: "assets/fazilazaki.png",
-     stats: { projects: "1+", skills: "6+", exp: "2+" }, // <--- sesuaiin ama isi cv kamu do 
+     stats: { projects: "0", skills: "5+", exp: "1+" }, // <--- sesuaiin ama isi cv kamu do 
 
    
     about: "A Computer Engineering student with basic skills in programming, networking, and computer systems. Highly motivated, with strong problem-solving abilities and experience in technical projects and laboratory work. Eager to grow and contribute in the technology field.",
@@ -262,7 +262,7 @@ const PROFILES = [
       
     ],
     projects: [
-      { title: "", desc: "", tag: "", img: "", emoji: "", liveUrl: "", srcUrl: "" }, // <--- ini kalau kamu gk punya projek, kosongin aja buat skrg
+      { title: "none", desc: "none", tag: "", img: "", emoji: "", liveUrl: "", srcUrl: "" }, // <--- ini kalau kamu gk punya projek, kosongin aja buat skrg
     ],
     experience: [
       { date: "2023 - Present", title: "Data Entry", company: "Personal / Academic", desc: "Handled data input, document organization, and administrative support.", tags: ["Microsoft Word", "Microsoft Excell", "Data Input Website Company Profile"] },
