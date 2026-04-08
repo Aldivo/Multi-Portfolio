@@ -263,7 +263,6 @@ const PROFILES = [
     
     experience: [
       { date: "2023 - Present", title: "Data Entry", company: "Personal / Academic", desc: "Handled data input, document organization, and administrative support.", tags: ["Microsoft Word", "Microsoft Excell", "Data Input Website Company Profile",] },
-     },
     ],
 
     // ── KONTAK ────────────────────────────────────────────────────────────────
