@@ -261,9 +261,9 @@ const PROFILES = [
       { name: "Ubuntu", icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/ubuntu.jpg", pct: 80 },
       
     ],
-    projects: [
-      { title: "Cara menginstall zabbix di ubuntu", desc: "A tutorial to install zabbix in ubuntu to monitor their client.", tag: "Internet Provider", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLGnRQDY69LV-GnnJtopyX73hwPNOrslEd0g&s", emoji: "", liveUrl: "assets/projects/CARA MENGINSTALL ZABBIX DI UBUNTU 20.pdf", srcUrl: "assets/projects/CARA MENGINSTALL ZABBIX DI UBUNTU 20.pdf" },
-    ],
+    //projects: [
+    //  { title: "Cara menginstall zabbix di ubuntu", desc: "A tutorial to install zabbix in ubuntu to monitor their client.", tag: "Internet Provider", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLGnRQDY69LV-GnnJtopyX73hwPNOrslEd0g&s", emoji: "", liveUrl: "assets/projects/CARA MENGINSTALL ZABBIX DI UBUNTU 20.pdf", srcUrl: "assets/projects/CARA MENGINSTALL ZABBIX DI UBUNTU 20.pdf" },
+    //],
     experience: [
       { date: "2023 - Present", title: "Data Entry", company: "Personal / Academic", desc: "Handled data input, document organization, and administrative support.", tags: ["Microsoft Word", "Microsoft Excell", "Data Input Website Company Profile"] },
     ],
