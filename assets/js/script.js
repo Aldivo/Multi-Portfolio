@@ -206,7 +206,7 @@ const PROFILES = [
       { name: "WinBox", icon: "https://e7.pngegg.com/pngimages/651/667/png-clipart-mikrotik-routeros-computer-icons-mikrotik-routeros-computer-network-graphical-user-interface-thumbnail.png", pct: 90 },
     ],
     projects: [
-      { title: "Cara menginstall zabbix di ubuntu", desc: "A tutorial selfmade to guide the reader on how to ", tag: "Backend", img: "", emoji: "🔌", liveUrl: "#", srcUrl: "#" },
+      { title: "Cara menginstall zabbix di ubuntu", desc: "A tutorial to install zabbix in ubuntu to monitor their client.", tag: "Internet Provider", img: "", emoji: "", liveUrl: "#", srcUrl: "#" },
     ],
     experience: [
       { date: "2024 - Present", title: "College Student", company: "Universitas Gunadarma", desc: "College student in Universitas Gunadarma. Currently in 4th Semester", tags: ["Academic", "Student"] },
