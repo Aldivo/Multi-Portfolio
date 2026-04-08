@@ -245,7 +245,7 @@ const PROFILES = [
    
     about: "A Computer Engineering student with basic skills in programming, networking, and computer systems. Highly motivated, with strong problem-solving abilities and experience in technical projects and laboratory work. Eager to grow and contribute in the technology field.",
     education: [
-      { year: "2024 - Present", title: "Teknik Komputer", sub: "Semester 4 · Active Student" }
+      { year: "2024 - Present", title: "Teknik Komputer", sub: "Semester 4 · Active Student" },
     ],
 
     // ── SKILLS ────────────────────────────────────────────────
@@ -262,7 +262,7 @@ const PROFILES = [
     ],
     
     experience: [
-      { date: "2023 - Present", title: "Data Entry", company: "Personal / Academic", desc: "Handled data input, document organization, and administrative support.", tags: ["Microsoft Word", "Microsoft Excell", "Data Input Website Company Profile",] },
+      { date: "2023 - Present", title: "Data Entry", company: "Personal / Academic", desc: "Handled data input, document organization, and administrative support.", tags: ["Microsoft Word", "Microsoft Excell", "Data Input Website Company Profile"] },
     ],
 
     // ── KONTAK ────────────────────────────────────────────────────────────────
