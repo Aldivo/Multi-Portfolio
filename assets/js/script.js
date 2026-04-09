@@ -220,7 +220,7 @@ const PROFILES = [
         { label: "Instagram", value: "@aldivodwitamay", href: "https://www.instagram.com/aldivodwitamay/", icon: "📸" },
       ]
     },
-    cvPath: "assets/cv/rizky-cv.pdf",
+    cvPath: "assets/ADYcv.pdf",
     typing: ["Network Technician", "Network Architect", "AI Enthusiast"],
   },
 
