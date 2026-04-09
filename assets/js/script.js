@@ -216,7 +216,7 @@ const PROFILES = [
       email: "divoyoven@gmail.com",
       socials: [
         { label: "Email", value: "divoyoven@gmail.com", href: "mailto:divoyoven@gmail.com", icon: "📧" },
-        { label: "GitHub", value: "github.com/rizky", href: "https://github.com/Aldivo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
+        { label: "GitHub", value: "github.com/Aldivo", href: "https://github.com/Aldivo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
         { label: "Instagram", value: "@aldivodwitamay", href: "https://www.instagram.com/aldivodwitamay/", icon: "📸" },
       ]
     },
