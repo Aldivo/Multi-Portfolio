@@ -335,7 +335,7 @@ const PROFILES = [
      // ── KONTAK ────────────────────────────────────────────────────────────────
     // icon sosmed: bisa emoji atau URL gambar PNG/SVG
     contact: {
-      email: "fazilazakiahmad46@gmail.com",
+      email: "aldofauzanbatubara@gmail.com",
       socials: [
         {
           label: "Email",
@@ -358,6 +358,7 @@ const PROFILES = [
           // Atau URL ikon instagram custom
         },
       ]
+    },
     cvPath: "assets/cv/dimas-cv.pdf",
     typing: ["ML Engineer", "Data Scientist", "AI Researcher", "Computer Vision Dev"],
   }
