@@ -310,15 +310,15 @@ const PROFILES = [
   // ══════════════════════════════════════════════════════════
   {
     id: 3,
-    name: "Dimas Kurniawan",
-    firstName: "Dimas",
-    lastName: "Kurniawan",
-    role: "Machine Learning Engineer & Data Scientist",
+    name: "Adrian Zahran Hakim",
+    firstName: "Adrian",
+    lastName: "Hakim ",
+    role: "Machine Learning Engineer & Web Developer",
     status: "Seeking PhD programs",
     desc: "Turning data into intelligence, and intelligence into impact.",
     accent: "#22c55e",
-    emoji: "🧠",
-    photo: "assets/profile4.jpg",    // ← ganti foto Dimas
+    emoji: "",
+    photo: "assets/projects/pung.jpeg",    // ← ganti foto Dimas
     stats: { projects: "6+", skills: "6+", exp: "2+" },
     about: "ML engineer passionate about computer vision, NLP, and edge AI. Research focus on efficient neural architectures for embedded systems.",
     education: [
@@ -343,34 +343,15 @@ const PROFILES = [
       { date: "2024 - Present", title: "AI Research Assistant", company: "University Lab", desc: "Researching efficient architectures for edge deployment.", tags: ["PyTorch", "ONNX", "Raspberry Pi"] },
       { date: "2024", title: "Data Science Intern", company: "Analytics Firm", desc: "Built churn and demand forecasting models.", tags: ["Python", "Scikit-learn", "Tableau"] },
     ],
-     // ── KONTAK ────────────────────────────────────────────────────────────────
-    // icon sosmed: bisa emoji atau URL gambar PNG/SVG
     contact: {
-      email: "aldofauzanbatubara@gmail.com",
+      email: "ardianhakim493@gmail.com",
       socials: [
-        {
-          label: "Email",
-          value: "aldofauzanbatubara@gmail.com",
-          href: "mailto:aldofauzanbatubara@gmail.com",
-          icon: "https://cdn.jsdelivr.net/gh/ZackCode46/portfolioweb@main/assets/images/gmail.jpg"
-        },
-        {
-          label: "GitHub",
-          value: "github.com/AldoFauzanBatubaraa",
-          href: "https://github.com/AldoFauzanBatubaraa",
-          icon: "https://cdn.jsdelivr.net/gh/ZackCode46/portfolioweb@main/assets/images/github_icon.png"
-          // Atau: icon: "🐙"
-        },
-        {
-          label: "Instagram",
-          value: "@alddxyz",
-          href: "https://www.instagram.com/alddxzy?igsh=MXNiczAyZGd4ZWZxbw==",
-          icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/instagram-removebg-preview.png"
-          // Atau URL ikon instagram custom
-        },
+        { label: "Email", value: "ardianhakim493@email.com", href: "mailto:ardianhakim493@email.com", icon: "📧" },
+        { label: "GitHub", value: "github.com/adrian", href: "https://github.com/Ardianhakim493-hue", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
+        { label: "Instagram", value: "yann_zhrn", href: "https://instagram.com/dimas.ai", icon: "📸" },
       ]
     },
-    cvPath: "assets/cv/dimas-cv.pdf",
+    cvPath: "assets/Adrian.pdf",
     typing: ["ML Engineer", "Data Scientist", "AI Researcher", "Computer Vision Dev"],
   }
 ];
