@@ -225,7 +225,7 @@ const PROFILES = [
       { name: "WinBox", icon: "https://e7.pngegg.com/pngimages/651/667/png-clipart-mikrotik-routeros-computer-icons-mikrotik-routeros-computer-network-graphical-user-interface-thumbnail.png", pct: 90 },
     ],
     projects: [
-      { title: "Cara menginstall zabbix di ubuntu", desc: "A tutorial to install zabbix in ubuntu to monitor their client.", tag: "Internet Provider", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLGnRQDY69LV-GnnJtopyX73hwPNOrslEd0g&s", emoji: "", liveUrl: "assets/projects/CARA MENGINSTALL ZABBIX DI UBUNTU 20.pdf", srcUrl: "assets/projects/CARA MENGINSTALL ZABBIX DI UBUNTU 20.pdf" },
+      { title: "Cara menginstall zabbix di ubuntu", desc: "A tutorial to install zabbix in ubuntu to monitor their client.", tag: "Internet Provider", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLGnRQDY69LV-GnnJtopyX73hwPNOrslEd0g&s", emoji: "", liveUrl: "assets/CARA MENGINSTALL ZABBIX DI UBUNTU 20.pdf", srcUrl: "assets/CARA MENGINSTALL ZABBIX DI UBUNTU 20.pdf" },
     ],
     experience: [
       { date: "2024 - Present", title: "College Student", company: "Universitas Gunadarma", desc: "College student in Universitas Gunadarma. Currently in 4th Semester", tags: ["Academic", "Student"] },
@@ -279,12 +279,28 @@ const PROFILES = [
       { date: "2023", title: "Frontend Intern", company: "Digital Agency", desc: "Implemented pixel-perfect designs in React.", tags: ["React", "Tailwind", "GSAP"] },
     ],
     contact: {
-      email: "aisha@email.com",
+      email: "aldofauzanbatubara@gmail.com",
       socials: [
-        { label: "Email", value: "aisha@email.com", href: "aldofauzanbatubara@gmail.com", icon: "📧" },
-        { label: "LinkedIn", value: "linkedin.com/in/aisha", href: "https://linkedin.com/in/aisha", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" },
-        { label: "GitHub", value: "github.com/aisha", href: "https://github.com/aisha", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
-        { label: "Instagram", value: "@aisha.design", href: "https://www.instagram.com/alddxzy?igsh=MXNiczAyZGd4ZWZxbw==", icon: "📸" },
+        {
+          label: "Email",
+          value: "aldofauzanbatubara@gmail.com",
+          href: "mailto:aldofauzanbatubara@gmail.com",
+          icon: "https://cdn.jsdelivr.net/gh/ZackCode46/portfolioweb@main/assets/images/gmail.jpg"
+        },
+        {
+          label: "GitHub",
+          value: "github.com/AldoFauzanBatubaraa",
+          href: "https://github.com/AldoFauzanBatubaraa",
+          icon: "https://cdn.jsdelivr.net/gh/ZackCode46/portfolioweb@main/assets/images/github_icon.png"
+          // Atau: icon: "🐙"
+        },
+        {
+          label: "Instagram",
+          value: "@alddxyz",
+          href: "https://www.instagram.com/alddxzy?igsh=MXNiczAyZGd4ZWZxbw==",
+          icon: "https://raw.githubusercontent.com/ZackCode46/portfolioweb/main/assets/images/instagram-removebg-preview.png"
+          // Atau URL ikon instagram custom
+        },
       ]
     },
     cvPath: "assets/projects/cv_aldo.pdf",
